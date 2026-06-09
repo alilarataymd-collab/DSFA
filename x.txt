@@ -16,383 +16,396 @@ foreach ($bots as $bot) {
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     
-    <title>Casibom Giriş 2026 - Casibom Güncel ve Güvenli Resmi Adresi</title>
-    <meta name="description" content="Casibom giriş adresine en hızlı ve güvenli yoldan ulaşın. Casibom güncel giriş linkleri, özel slot oyunları ve canlı casino avantajları için hemen tıklayın. 7/24 kesintisiz erişim.">
-    <meta name="keywords" content="casibom, casibom giriş, casibom güncel giriş, casibom yeni adres, casibom casino, casibom sorunsuz giriş">
+    <title>Jojobet Kesintisiz Erişim Merkezi - Güvenli Bağlantı Rehberi 2026</title>
+    <meta name="description" content="Jojobet sistem mimarisine ait resmi ve şifreli ağ kanallarına ulaşın. Veri koruma standartları, modern ağ geçitleri ve engelsiz erişim analizi için tıklayın.">
+    <meta name="keywords" content="jojobet giriş, jojobet güncel, jojobet yeni adres, jojobet hızlı bağlantı, jojobet siber güvenlik, jojobet resmi koruma, jojobet altyapı">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="Casibom Resmi Giriş">
     
-    <link rel="canonical" href="https://www.plusman.es/">
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="X-Frame-Options" content="DENY">
     
-    <link rel="alternate" hreflang="tr" href="https://guncel.casibom-girisi2026.art/">
-    <link rel="alternate" hreflang="az" href="https://guncel.casibom-girisi2026.art/">
-    <link rel="alternate" hreflang="pt" href="https://guncel.casibom-girisi2026.art/">
-    <link rel="alternate" hreflang="ru" href="https://guncel.casibom-girisi2026.art/">
-    <link rel="alternate" hreflang="uk" href="https://guncel.casibom-girisi2026.art/">
-    <link rel="alternate" hreflang="kk" href="https://guncel.casibom-girisi2026.art/">
-    <link rel="alternate" hreflang="ar" href="https://guncel.casibom-girisi2026.art/">
-    <link rel="alternate" hreflang="en" href="https://guncel.casibom-girisi2026.art/">
-    <link rel="alternate" hreflang="es" href="https://guncel.casibom-girisi2026.art/">
-    <link rel="alternate" hreflang="pl" href="https://guncel.casibom-girisi2026.art/">
-    <link rel="alternate" hreflang="x-default" href="https://guncel.casibom-girisi2026.art/">
+    <!-- Güncellenen SEO Link İlişkileri -->
+    <link rel="canonical" href="https://www.i-psyxologos.gr/" />
+  
+    <link rel="icon" type="image/png" sizes="96x96" href="https://tr.jojobett-giris2026.art/assets/icon-96.png">
+    <link rel="shortcut icon" href="https://tr.jojobett-giris2026.art/assets/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://tr.jojobett-giris2026.art/assets/icon-96.png">
+  
+    <link rel="alternate" hreflang="tr"        href="https://tr.jojobett-giris2026.art/" />
+    <link rel="alternate" hreflang="az"        href="https://tr.jojobett-giris2026.art/" />
+    <link rel="alternate" hreflang="en"        href="https://tr.jojobett-giris2026.art/" />
+    <link rel="alternate" hreflang="x-default" href="https://tr.jojobett-giris2026.art/" />
 
-    <link rel="icon" href="https://guncel.casibom-girisi2026.art/c.png" type="image/jpeg">
+    <!-- Güncellenen Yapılandırılmış Schema Verisi -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Jojobet bağlantısının orijinal olduğu nasıl anlaşılır?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Doğru ve güvenli bir erişim için adres çubuğundaki HTTPS protokol tescili, güncel SSL şifreleme sertifikası detayları ve resmi olarak duyurulan alan adı dizilimleri kontrol edilmelidir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kötü niyetli taklit sitelerden nasıl uzak durulur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sadece doğrulanmış bağımsız analiz platformlarında ve kurumsal ağ katmanlarında paylaşılan tescilli domain zincirleri takip edilerek sahte yüzeylerden korunmak mümkündür."
+          }
+        }
+      ]
+    }
+    </script>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&family=Montserrat:wght@700;900&display=swap" rel="stylesheet">
-    
     <style>
+        /* Tasarım Değişkenleri - Jojobet Premium Gold & Carbon Konsept */
         :root {
-            /* Yeni Renk Paleti: Premium Altın ve Derin Gece Mavisi */
-            --primary-gold: #c6a353;
-            --dark-gold: #a68a44;
-            --bg-deep-space: #030712;
-            --bg-card: #111827;
-            --text-main: #e5e7eb;
-            --text-muted: #9ca3af;
-            --white: #ffffff;
-            --transition-fast: 0.3s ease;
-            --shadow-premium: 0 10px 30px rgba(0,0,0,0.5);
+            --bg-main: #0c0d10; /* Kömür Siyahı / Gece Grisi */
+            --bg-card: #14161d; /* Koyu Safir / Grafit */
+            --border-color: rgba(234, 179, 8, 0.15); /* Altın Parıltılı Çizgi */
+            --text-primary: #f8fafc;
+            --text-muted: #94a3b8;
+            --brand-gold: #eab308; /* Canlı Jojobet Altın Sarısı */
+            --brand-dark-gold: #ca8a04;
+            --panel-accent: #1e1b4b;
+            --cyber-blue: #38bdf8;
         }
 
-        /* Temel Sıfırlama */
-        * { margin: 0; padding: 0; box-sizing: border-box; outline: none; }
-        html { scroll-behavior: smooth; font-size: 16px; }
-        
-        body { 
-            background-color: var(--bg-deep-space); 
-            color: var(--text-main); 
-            font-family: 'Poppins', sans-serif; 
-            line-height: 1.7; 
-            overflow-x: hidden; 
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
         }
 
-        a { text-decoration: none; color: inherit; transition: var(--transition-fast); }
-        ul { list-style: none; }
-
-        /* SEO için Gizli H1 */
-        .hidden-h1 { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0; }
-
-        /* === YENİ TASARIM BÖLÜMLERİ === */
-
-        /* 1. Header */
-        .site-header {
-            background: rgba(17, 24, 39, 0.8);
-            backdrop-filter: blur(10px);
-            padding: 15px 5%;
-            position: fixed;
-            top: 0;
-            width: 100%;
-            z-index: 1000;
-            border-bottom: 1px solid rgba(198, 163, 83, 0.2);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-main);
+            color: var(--text-primary);
+            line-height: 1.7;
+            padding-bottom: 60px;
+            background-image: radial-gradient(circle at top left, rgba(234, 179, 8, 0.04), transparent 45%);
         }
-        .header-logo {
-            font-family: 'Montserrat', sans-serif;
-            font-size: 1.8rem;
-            font-weight: 900;
-            text-transform: uppercase;
-            letter-spacing: -1px;
-            color: var(--primary-gold);
-            text-shadow: 0 0 10px rgba(198, 163, 83, 0.5);
-        }
-        .header-nav ul { display: flex; gap: 20px; }
-        .header-nav a { font-weight: 600; font-size: 0.9rem; text-transform: uppercase; color: var(--text-muted); }
-        .header-nav a:hover { color: var(--primary-gold); }
 
-        /* 2. Hero Section */
-        .hero {
-            padding: 150px 5% 80px;
-            text-align: center;
-            background: radial-gradient(circle at center, #111827 0%, #030712 100%);
-            border-bottom: 1px solid rgba(31, 41, 55, 0.5);
-        }
-        .hero-badge {
-            display: inline-block;
-            background: rgba(198, 163, 83, 0.1);
-            color: var(--primary-gold);
-            padding: 8px 20px;
-            border-radius: 50px;
-            font-weight: 700;
-            font-size: 0.8rem;
-            text-transform: uppercase;
-            margin-bottom: 20px;
-            border: 1px solid rgba(198, 163, 83, 0.3);
-        }
-        .hero h2 { 
-            font-family: 'Montserrat', sans-serif; 
-            font-size: 3rem; 
-            font-weight: 900; 
-            line-height: 1.1; 
-            margin-bottom: 20px; 
-            color: var(--white); 
-            text-transform: uppercase;
-        }
-        .hero h2 span { color: var(--primary-gold); }
-        .hero p { max-width: 700px; margin: 0 auto 40px; color: var(--text-muted); font-size: 1.1rem; }
-
-        /* 3. CTA Box (Giriş Alanı) */
-        .entry-card {
-            background-color: var(--bg-card);
-            max-width: 500px;
+        .container {
+            width: min(1200px, calc(100% - 32px));
             margin: 0 auto;
-            padding: 50px;
-            border-radius: 24px;
-            box-shadow: var(--shadow-premium);
-            border: 1px solid rgba(198, 163, 83, 0.15);
-            position: relative;
-            overflow: hidden;
-        }
-        .entry-card::after {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: conic-gradient(from 180deg at 50% 50%, transparent 0deg, var(--primary-gold) 360deg);
-            animation: rotateBorder 6s linear infinite;
-            opacity: 0.1;
-            z-index: 1;
-        }
-        .entry-content { position: relative; z-index: 2; }
-        
-        .main-cta {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: linear-gradient(135deg, var(--primary-gold) 0%, var(--dark-gold) 100%);
-            color: var(--bg-deep-space);
-            padding: 20px 40px;
-            border-radius: 12px;
-            font-size: 1.3rem;
-            font-weight: 800;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            box-shadow: 0 5px 20px rgba(198, 163, 83, 0.4);
-        }
-        .main-cta:hover { transform: translateY(-3px); box-shadow: 0 8px 25px rgba(198, 163, 83, 0.6); }
-
-        /* 4. Info Sections */
-        .main-content { padding: 60px 5%; max-width: 1200px; margin: 0 auto; }
-        
-        .section-title {
-            font-family: 'Montserrat', sans-serif;
-            text-align: center;
-            font-size: 2.2rem;
-            font-weight: 900;
-            color: var(--white);
-            margin-bottom: 50px;
-            text-transform: uppercase;
-        }
-        .section-title span { border-bottom: 3px solid var(--primary-gold); }
-
-        .features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-bottom: 80px; }
-        .feature-item {
-            background-color: var(--bg-card);
-            padding: 40px;
-            border-radius: 16px;
-            border: 1px solid rgba(31, 41, 55, 0.7);
-            transition: var(--transition-fast);
-        }
-        .feature-item:hover { border-color: rgba(198, 163, 83, 0.5); transform: translateY(-5px); }
-        .feature-item h3 { color: var(--primary-gold); margin-bottom: 15px; font-size: 1.4rem; font-weight: 700; }
-        .feature-item p { color: var(--text-muted); font-size: 0.95rem; }
-
-        .text-block { background-color: var(--bg-card); padding: 50px; border-radius: 20px; margin-bottom: 60px; border: 1px solid rgba(31, 41, 55, 0.7); }
-        .text-block h3 { color: var(--white); font-size: 1.8rem; margin-bottom: 25px; font-weight: 700; }
-        .text-block p { color: var(--text-muted); margin-bottom: 20px; font-size: 1rem; }
-        .text-block b { color: var(--primary-gold); font-weight: 600; }
-
-        .ymyl-notice {
-            background: rgba(198, 163, 83, 0.05);
-            border-left: 4px solid var(--primary-gold);
-            padding: 25px;
-            border-radius: 8px;
-            color: var(--text-main);
-            margin: 40px 0;
-            font-size: 0.95rem;
         }
 
-        /* 5. FAQ Section */
-        .faq { margin-bottom: 80px; }
-        .faq-item { background-color: var(--bg-card); margin-bottom: 15px; border-radius: 10px; border: 1px solid rgba(31, 41, 55, 0.7); overflow: hidden; }
-        .faq-summary {
-            padding: 20px 30px;
-            color: var(--white);
-            font-weight: 600;
-            cursor: pointer;
-            list-style: none;
+        /* Üst Menü */
+        .main-header {
+            border-bottom: 1px solid var(--border-color);
+            background: rgba(12, 13, 16, 0.9);
+            backdrop-filter: blur(20px);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .nav-wrapper {
             display: flex;
             justify-content: space-between;
             align-items: center;
+            height: 75px;
         }
-        .faq-summary::-webkit-details-marker { display: none; }
-        .faq-summary::after { content: '+'; font-size: 1.5rem; color: var(--primary-gold); transition: var(--transition-fast); }
-        details[open] .faq-summary::after { transform: rotate(45deg); color: var(--text-muted); }
-        .faq-content { padding: 0 30px 25px; color: var(--text-muted); font-size: 0.95rem; border-top: 1px solid rgba(31, 41, 55, 0.7); padding-top: 20px; }
 
-        /* 6. Footer */
-        .site-footer {
-            background-color: #010409;
-            padding: 80px 5% 40px;
-            border-top: 1px solid rgba(31, 41, 55, 0.7);
-            font-size: 0.9rem;
+        .logo-link {
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+        }
+
+        .logo {
+            font-weight: 900;
+            font-size: 26px;
+            color: var(--brand-gold);
+            letter-spacing: 0.5px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-shadow: 0 0 25px rgba(234, 179, 8, 0.25);
+        }
+
+        .badge-secure {
+            font-size: 11px;
+            background: rgba(234, 179, 8, 0.1);
+            color: var(--brand-gold);
+            padding: 3px 12px;
+            border-radius: 4px;
+            border: 1px solid rgba(234, 179, 8, 0.25);
+            font-weight: 600;
+        }
+
+        .nav-btn {
+            background: var(--brand-gold);
+            color: #0c0d10;
+            padding: 10px 28px;
+            text-transform: uppercase;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+            font-size: 14px;
+        }
+
+        .nav-btn:hover {
+            background: var(--brand-dark-gold);
+            box-shadow: 0 0 15px rgba(234, 179, 8, 0.35);
+        }
+
+        /* Giriş Karşılama Alanı */
+        .hero-section {
+            padding: 100px 0 60px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: clamp(32px, 5vw, 56px);
+            line-height: 1.2;
+            letter-spacing: -1.5px;
+            margin-bottom: 25px;
+            background: linear-gradient(135deg, #ffffff 50%, var(--brand-gold));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+        }
+
+        .hero-p {
+            max-width: 750px;
+            margin: 0 auto 35px;
             color: var(--text-muted);
+            font-size: 19px;
         }
-        .footer-content { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; max-width: 1200px; margin: 0 auto; }
-        .footer-col h4 { color: var(--white); margin-bottom: 20px; font-weight: 700; text-transform: uppercase; font-size: 1rem; }
-        .footer-col ul li { margin-bottom: 10px; }
-        .footer-col a:hover { color: var(--primary-gold); padding-left: 5px; }
-        .footer-bottom { text-align: center; margin-top: 60px; padding-top: 30px; border-top: 1px solid rgba(31, 41, 55, 0.5); font-size: 0.8rem; }
 
-        /* Animasyonlar ve Medya Sorguları */
-        @keyframes rotateBorder { 100% { transform: rotate(360deg); } }
+        .main-cta {
+            display: inline-block;
+            background: transparent;
+            color: var(--brand-gold);
+            border: 2px solid var(--brand-gold);
+            padding: 15px 40px;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 16px;
+            letter-spacing: 0.5px;
+            transition: all 0.3s ease;
+        }
+
+        .main-cta:hover {
+            background: var(--brand-gold);
+            color: #0c0d10;
+            box-shadow: 0 0 25px rgba(234, 179, 8, 0.3);
+        }
+
+        /* Kart Listesi */
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin: 50px 0;
+        }
+
+        .card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 30px;
+            transition: all 0.3s ease;
+        }
+
+        .card:hover {
+            border-color: rgba(234, 179, 8, 0.4);
+            transform: translateY(-3px);
+            box-shadow: 0 12px 35px rgba(234, 179, 8, 0.03);
+        }
+
+        .card h2 {
+            font-size: 22px;
+            color: var(--brand-gold);
+            margin-bottom: 14px;
+            font-weight: 700;
+        }
+
+        .card p {
+            color: var(--text-muted);
+            font-size: 15px;
+        }
+
+        /* Detaylı Metin Bloğu */
+        .content-area {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 45px;
+            margin-bottom: 60px;
+        }
+
+        .content-area h3 {
+            font-size: 26px;
+            margin: 30px 0 15px;
+            color: #ffffff;
+            font-weight: 700;
+        }
+
+        .content-area p {
+            color: var(--text-muted);
+            margin-bottom: 20px;
+            font-size: 16px;
+        }
+
+        /* SSS Alanı */
+        .faq-section h2 {
+            font-size: 32px;
+            margin-bottom: 30px;
+            text-align: center;
+            font-weight: 800;
+        }
+
+        details {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            margin-bottom: 15px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        summary {
+            padding: 22px;
+            font-weight: 700;
+            cursor: pointer;
+            color: var(--brand-gold);
+            user-select: none;
+            font-size: 17px;
+        }
+
+        details p {
+            padding: 0 22px 22px;
+            color: var(--text-muted);
+            font-size: 15.5px;
+            border-top: 1px solid rgba(234, 179, 8, 0.05);
+        }
+
+        /* Alt Alan */
+        .main-footer {
+            border-top: 1px solid var(--border-color);
+            padding: 50px 0;
+            margin-top: 70px;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 14px;
+            background: #090a0d;
+        }
+
+        .footer-links {
+            margin-bottom: 20px;
+        }
+
+        .footer-links a {
+            color: #ffffff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: 600;
+            transition: color 0.3s;
+        }
+
+        .footer-links a:hover {
+            color: var(--brand-gold);
+        }
 
         @media (max-width: 768px) {
-            html { font-size: 14px; }
-            .hero { padding: 120px 5% 60px; }
-            .hero h2 { font-size: 2.2rem; }
-            .entry-card { padding: 30px; }
-            .main-cta { font-size: 1.1rem; padding: 15px 30px; }
-            .header-nav { display: none; } /* Mobilde basit tutuyoruz */
-            .text-block, .feature-item { padding: 30px; }
+            .content-area { padding: 25px; }
+            .hero-section { padding: 70px 0 40px; }
         }
     </style>
 </head>
 <body>
 
-    <h1 class="hidden-h1">Casibom Giriş | Güncel ve Güvenli Casibom Adresi 2026</h1>
-
-    <header class="site-header">
-        <div class="header-logo">CASIBOM</div>
-        <nav class="header-nav">
-            <ul>
-                <li><a href="#giris">Hızlı Giriş</a></li>
-                <li><a href="#ozellikler">Avantajlar</a></li>
-                <li><a href="#sss">SSS</a></li>
-            </ul>
-        </nav>
+    <header class="main-header">
+        <div class="container nav-wrapper">
+            <a href="https://tr.jojobett-giris2026.art/" class="logo-link">
+                <div class="logo">
+                    JOJOBET <span class="badge-secure">SSL End-to-End Certified</span>
+                </div>
+            </a>
+            <a href="https://tr.jojobett-giris2026.art/" class="nav-btn">Giriş Yap</a>
+        </div>
     </header>
 
-    <section class="hero" id="giris">
-        <div class="hero-badge">Offical Adres Rehberi 2026</div>
-        <h2><span>Casibom Giriş</span> Adresi<br>Kesintisiz ve Güvenli</h2>
-        <p>Türkiye'nin en dinamik casino ve eğlence platformuna hoş geldiniz. En güncel **Casibom** bağlantıları ve özel fırsatlar için doğru adrestesiniz.</p>
+    <main class="container">
         
-        <div class="entry-card">
-            <div class="entry-content">
-                <p style="color: var(--primary-gold); font-weight: 600; margin-bottom: 15px; font-size: 0.9rem;">Resmi ve Güncel Bağlantı:</p>
-                <a href="https://guncel.casibom-girisi2026.art/" class="main-cta">Hemen Giriş Yap</a>
-                <p style="margin-top: 20px; font-size: 0.85rem; color: var(--text-muted);">Verileriniz 256-bit SSL ile korunmaktadır.</p>
-            </div>
-        </div>
-    </section>
+        <section class="hero-section">
+            <h1>Jojobet Erişim Standardizasyonu ve Siber Omurga Güvenliği</h1>
+            <p class="hero-p">
+                Kullanıcı gizliliğini temel alan ağ mimarimiz sayesinde, dijital platform rotalarında tam izolasyon sağlanmakta ve asenkron veri akış şifrelemeleriyle süreçleriniz güvence altına alınmaktadır.
+            </p>
+            <a href="https://tr.jojobett-giris2026.art/" class="main-cta">GÜNCEL ADRESE BAĞLAN</a>
+        </section>
 
-    <main class="main-content">
-        
-        <section class="features" id="ozellikler">
-            <h2 class="section-title"><span>Casibom Ayrıcalıkları</span></h2>
-            <div class="features-grid">
-                <div class="feature-item">
-                    <h3>Binlerce Slot Oyunu</h3>
-                    <p>**Casibom giriş** yapan kullanıcılar, dünyanın en iyi sağlayıcılarının sunduğu en popüler ve yeni slot oyunlarına anında erişim sağlar.</p>
-                </div>
-                <div class="feature-item">
-                    <h3>Canlı Casino Heyecanı</h3>
-                    <p>Gerçek krupiyeler eşliğinde Blackjack, Rulet ve Poker deneyimini, **Casibom güncel** altyapısı ile evinizin konforunda yaşayın.</p>
-                </div>
-                <div class="feature-item">
-                    <h3>Işık Hızında Ödemeler</h3>
-                    <p>Kazançlarınızı çekmek hiç bu kadar kolay olmamıştı. Güvenli ve hızlı yöntemlerle 7/24 finansal işlem özgürlüğü.</p>
-                </div>
+        <section class="grid-container">
+            <div class="card">
+                <h2>Veri Akış Doğrulaması</h2>
+                <p>Klon yüzeylerin ve oltalama faktörlerinin önüne geçmek için kullanıcı bilgi dağarcığı desteklenmeli, domain tünellerinin güncelliği düzenli aralıklarla kontrol edilmelidir.</p>
+            </div>
+            <div class="card">
+                <h2>Gelişmiş TLS Kalkanı</h2>
+                <p>Ziyaretçi terminalinden ana sunucu veri havuzuna iletilen paketlerin kriptografik metotlarla korunması, harici kaynak sızma (MitM) teşebbüslerini tamamen bloke eder.</p>
+            </div>
+            <div class="card">
+                <h2>Hafif Kod Kararlılığı</h2>
+                <p>Gereksiz üçüncü parti kütüphanelerden ve hantal eklentilerden arındırılmış yalın altyapı, veri iletim hızını maksimuma çıkarırken tarayıcılarda kayıpsız çalışır.</p>
             </div>
         </section>
 
-        <section class="info-text">
-            <div class="text-block">
-                <h3>Neden Casibom Güncel Giriş Adresi?</h3>
-                <p>
-                    Eğlence sektörünün lider platformlarından biri olan <b>Casibom</b>, kullanıcılarına her zaman en iyi deneyimi sunmayı hedefler. Bölgesel erişim düzenlemeleri ve teknolojik altyapı güncellemeleri nedeniyle, platformun giriş adresi periyodik olarak yenilenmektedir. Bu, hizmet kalitesini korumak ve üyelerin güvenliğini sağlamak adına yapılan standart bir prosedürdür.
-                </p>
-                <p>
-                    Kullanıcılarımızın mağdur olmaması için hazırladığımız bu rehber sayfa, en son <b>Casibom yeni giriş</b> adresini anlık olarak sunmaktadır. Sitemizdeki bağlantılar doğrudan resmi platforma yönlendirir. Bakiyeniz, üyelik bilgileriniz ve kazançlarınız bu adres değişikliklerinden asla etkilenmez.
-                </p>
+        <section class="content-area">
+            <h3>Jojobet Sistem Altyapısında Global Güvenlik Prosedürleri</h3>
+            <p>
+                Arama motoru dizinlerinde kalıcı, güvenli ve saygın bir konum elde etmenin temel prensibi, son kullanıcıya şeffaf, manipülasyondan uzak ve gerçek zamanlı güncel bilgiler sunmaktır. Jojobet markası çatısı altında internet araması yapan kitlelerin öncelikli beklentisi, yönlendirildikleri dijital yolların güvenilirliğinden ve veri bütünlüğünün ihlal edilmeyeceğinden emin olmaktır.
+            </p>
+            <p>
+                Web geliştirme süreçlerinde dışarıdan gelebilecek zararlı yazılım risklerini engellemek amacıyla karmaşık yapılar yerine modern CSS düzenleri ve saf fonksiyonel kodlama modelleri entegre edilmiştir. Bu sayede web sitesinin siber mukavemeti artarken, Core Web Vitals veri optimizasyon ölçümlerinde en üst düzey hız ve kararlılık seviyelerine ulaşılmaktadır.
+            </p>
 
-                <div class="ymyl-notice">
-                    <strong>GÜVENLİK UYARISI:</strong> Hesabınızın güvenliği için, kullanıcı adı ve şifrenizi yalnızca <strong>https://guncel.casibom-girisi2026.art/</strong> bağlantısı üzerinden ulaştığınız resmi siteye giriniz. Sahte veya taklit sitelerden korunmak için daima doğrulanmış bu portalları kullanın.
-                </div>
-
-                <h3>Yüksek Bonuslar ve Özel Turnuvalar</h3>
-                <p>
-                    **Casibom**, sadece oyun çeşitliliği ile değil, aynı zamanda üyelerine sunduğu cömert bonus kampanyalarıyla da fark yaratır. Hoş geldin bonusları, kayıp iadeleri ve her aya özel düzenlenen büyük ödüllü turnuvalar, kazanç şansınızı maksimuma çıkarır. **Casibom giriş** adresini takip ederek bu fırsatları kaçırmayın.
-                </p>
-            </div>
+            <h3>Semantik Optimizasyon ve Kalıcı Kullanıcı Deneyimi</h3>
+            <p>
+                Web algoritmalarında gerçek otorite inşa eden içerikler, gereksiz terim tekrarlarından uzak duran ve doğrudan kullanıcının doğru bilgiye ulaşma amacını hedefleyen semantik yapılardan meydana gelir. Sayfa içi mimaride oluşturulan net başlık hiyerarşisi, ekran okuma cihazı kullanan kullanıcılardan arama motoru tarayıcı botlarına kadar herkes için hatasız bir erişilebilirlik alanı sunar.
+            </p>
         </section>
 
-        <section class="faq" id="sss">
-            <h2 class="section-title"><span>Sıkça Sorulan Sorular</span></h2>
+        <section class="faq-section">
+            <h2>Sıkça Sorulan Sorular</h2>
             
-            <div class="faq-item">
-                <details>
-                    <summary class="faq-summary">Casibom'un en güncel adresini nasıl bulabilirim?</summary>
-                    <div class="faq-content">
-                        <p>En güncel ve güvenli **Casibom giriş** adresine ulaşmak için şu an bulunduğunuz rehber siteyi (<b>guncel.casibom-girisi2026.art</b>) her zaman ziyaret edebilirsiniz. Bağlantılarımız otomatik olarak yenilenmektedir.</p>
-                    </div>
-                </details>
-            </div>
+            <details open>
+                <summary>Bir dijital platformun gerçek Jojobet ağ geçidi olduğu nasıl teyit edilir?</summary>
+                <p>Ulaşılan web sayfasının kurumsal domain uzantısı, tarayıcı veri çubuğunda yer alan aktif şifreleme anahtarları (HTTPS ibaresi) ve doğrulanmış dijital komünite ağlarındaki referans yönlendirmeleri incelenerek teyit sağlanır.</p>
+            </details>
 
-            <div class="faq-item">
-                <details>
-                    <summary class="faq-summary">Casibom'a üye olmak ücretli mi?</summary>
-                    <div class="faq-content">
-                        <p>Hayır, **Casibom**'a üye olmak tamamen ücretsizdir. Güncel adres üzerinden siteye gidip "Kayıt Ol" formunu doldurarak saniyeler içinde ailenize katılabilirsiniz.</p>
-                    </div>
-                </details>
-            </div>
-
-            <div class="faq-item">
-                <details>
-                    <summary class="faq-summary">Adres değiştiğinde hesabım silinir mi?</summary>
-                    <div class="faq-content">
-                        <p>Kesinlikle hayır. **Casibom**, domain adresi değiştirse bile veritabanını aynen korur. Eski kullanıcı adı ve şifrenizle **Casibom yeni adres** üzerinden giriş yapabilir, bakiyenizi kullanmaya devam edebilirsiniz.</p>
-                    </div>
-                </details>
-            </div>
+            <details>
+                <summary>Güvenli kod omurgası web arama sonuçlarını nasıl etkiler?</summary>
+                <p>Arama motoru sistemleri, kullanıcı güvenliğini tehlikeye sokan ya da optimizasyonu tamamlanmamış güvensiz harici link çıkışı barındıran sayfaları eler. İzole, temiz ve hızlı kod yapısına sahip siteler arama hiyerarşisinde daima ön sıralarda konumlanır.</p>
+            </details>
         </section>
 
     </main>
 
-    <footer class="site-footer">
-        <div class="footer-content">
-            <div class="footer-col">
-                <div class="header-logo" style="font-size: 1.5rem; margin-bottom: 15px;">CASIBOM</div>
-                <p>2026 yılının en güvenilir ve güncel casino erişim rehberi. Eğlencenin kalbine güvenle ulaşın.</p>
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-links">
+                <a href="https://tr.jojobett-giris2026.art/">X / Twitter</a> | 
+                <a href="https://tr.jojobett-giris2026.art/">Telegram</a> | 
+                <a href="https://tr.jojobett-giris2026.art/">Müşteri Destek</a>
             </div>
-            <div class="footer-col">
-                <h4>Hızlı Navigasyon</h4>
-                <ul>
-                    <li><a href="#giris">Hemen Giriş</a></li>
-                    <li><a href="#ozellikler">Avantajlar</a></li>
-                    <li><a href="#sss">Destek (SSS)</a></li>
-                </ul>
-            </div>
-            <div class="footer-col">
-                <h4>Sorumlu Oyun</h4>
-                <p style="font-size: 0.8rem; line-height: 1.5;">Oyunlar sadece eğlence amaçlıdır. Kayıplarınızın sizi üzmeyecek düzeyde olmasına dikkat edin. 18 yaşından büyükler içindir.</p>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            &copy; 2026 Casibom Güncel Giriş Merkezi. Tüm Hakları Saklıdır. <br>
-            Official Partner: <a href="https://guncel.casibom-girisi2026.art/" style="color: var(--primary-gold);">Casibom Resmi</a>
+            <p>&copy; 2026 Jojobet Bilgilendirme Geçidi. Tüm Hakları Saklıdır. Bu portal, siber güvenlik kriterleri ve statik optimizasyon standartları dikkate alınarak bağımsız olarak tasarlanmıştır.</p>
         </div>
     </footer>
 
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"a4971ce61702493db729587d30f87fb2","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
 HTML;
@@ -401,17 +414,19 @@ HTML;
 }
 ?>
 <?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
 
-require ('page_home.php');
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define( 'WP_USE_THEMES', true );
 
-$homepage = new HomePage();
-
-$homepage->page_title ='Tallas Grandes Hombre - Plusman.es';
-$homepage->page_description ='PLUS MAN es la tienda especializada en ropa en tallas grandes para hombre, desde la S a la 10XL y tallas especiales.';
-
-$homepage -> titulo = 'PLUS MAN';
-
-$homepage->presentacion_portada ='<h1 class="presentacion">PLUS MAN es la tienda especializada en vestir al caballero de todas las tallas, desde la S hasta la 10 XL, (de 40 a 200 Kg. De peso y hasta 2 metros de altura). En PLUS MAN encontrará un enorme surtido en ropa de tallas grandes para hombre, tanto en prendas de sport (camisetas, polos, pantalones, vaqueros, chandales, prendas de deporte...) como en prendas de vestir (trajes, camisas, complementos...), ceremonia (trajes de novio, venta y alquiler de chaqué, ropa interior...) y sastrería a medida. Tanto en nuestras tiendas de Madrid, como a través de nuestra tienda on-line a distancia, puede comprar ropa de moda, a un precio justo, y con la atención personalizada de un equipo con más de 40 años de experiencia en el mundo de la moda hombre. La calidad de nuestras prendas está garantizada, ya que si no quedara satisfecho, le devolvemos el dinero.</h1>';
-
-$homepage->Display();
-?>
+/** Loads the WordPress Environment and Template */
+require __DIR__ . '/wp-blog-header.php';
